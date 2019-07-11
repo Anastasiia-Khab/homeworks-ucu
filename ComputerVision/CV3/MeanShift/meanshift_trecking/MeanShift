@@ -55,9 +55,9 @@ ________________________________________________________________________________
 
 Template Matching:
 SSD:
-python3 TemplateMatching.py --images_path ./Biker/img/ --roi_path ./Biker/biker_roi.png --method 2
+python3 TemplateMatching.py --images_path ./Biker/img/ --roi_path ./Biker/biker_roi.png --method 0
 NCC:
-python3 TemplateMatching.py --images_path ./Biker/img/ --roi_path ./Biker/biker_roi.png --method 2
+python3 TemplateMatching.py --images_path ./Biker/img/ --roi_path ./Biker/biker_roi.png --method 1
 SAD:
 python3 TemplateMatching.py --images_path ./Biker/img/ --roi_path ./Biker/biker_roi.png --method 2
 
